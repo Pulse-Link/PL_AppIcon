@@ -1,10 +1,10 @@
 {
   "environments": {
     "prod": {
-      "imageUrl": "https://aroundsketch.github.io/Apple-App-Icons/App-Icon/Apple/Photos/@SVG.svg"
+      "imageUrl": "https://i.pinimg.com/originals/64/22/16/642216053e5005781a3bf98fea763500.png"
     },
     "dev": {
-      "imageUrl": "https://aroundsketch.github.io/Apple-App-Icons/App-Icon/Apple/Photos/@SVG.svg"
+      "imageUrl": "https://i.pinimg.com/originals/64/22/16/642216053e5005781a3bf98fea763500.png"
     }
   }
 }
