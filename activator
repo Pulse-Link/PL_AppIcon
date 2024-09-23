@@ -1,3 +1,10 @@
 {
-      "icon": 0
+  "environments": {
+    "prod": {
+      "imageUrl": "https://prod.example.com/image.png"
+    },
+    "dev": {
+      "imageUrl": "https://dev.example.com/image.png"
+    }
+  }
 }
