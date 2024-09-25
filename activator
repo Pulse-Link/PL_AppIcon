@@ -1,7 +1,7 @@
 {
   "environments": {
     "prod": {
-      "appIconIndex": 1
+      "appIconIndex": 0
     },
     "dev": {
       "appIconIndex": 2
