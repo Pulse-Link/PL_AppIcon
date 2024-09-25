@@ -1,10 +1,12 @@
 {
   "environments": {
     "prod": {
-      "imageUrl": "https://cdn2.iconfinder.com/data/icons/ios7-inspired-mac-icon-set/512/Calculator_512.png"
+      "imageUrl": "https://cdn2.iconfinder.com/data/icons/ios7-inspired-mac-icon-set/512/Calculator_512.png",
+      "appIconIndex": 1
     },
     "dev": {
-      "imageUrl": "https://i.pinimg.com/originals/64/22/16/642216053e5005781a3bf98fea763500.png"
+      "imageUrl": "https://i.pinimg.com/originals/64/22/16/642216053e5005781a3bf98fea763500.png",
+      "appIconIndex": 2
     }
   }
 }
