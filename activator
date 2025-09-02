@@ -6,5 +6,13 @@
     "dev": {
       "appIconIndex": 2
     }
+  },
+  "names": {
+    "OG": 0,
+    "MRDKA": 1,
+    "RAYA": 2,
+    "CNY": 3,
+    "DIWALI": 4,
+    "CHRSTMS": 5
   }
 }
